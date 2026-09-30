@@ -3,9 +3,9 @@ INVOICE PWA - FILES
 index.html         - the app (edit COMPANY_NAME / CITY / DISCOUNT / item table near the top of the <script>)
 manifest.json       - app name, colors, icons (edit "name" and "short_name" if you change the shop name)
 sw.js               - service worker; makes the app open even with no internet, after first visit
-icons/icon-192.png
-icons/icon-512.png
-icons/icon-maskable-512.png
+icon-192.png
+icon-512.png
+icon-maskable-512.png
 
 WHY IT NEEDS HOSTING (not just double-clicking the file)
 ----------------------------------------------------------
@@ -16,7 +16,7 @@ below give you that.
 EASIEST FREE HOSTING (pick one)
 ---------------------------------
 1) GitHub Pages
-   - Create a GitHub repo, upload these files (keep the "icons" folder as is).
+   - Create a GitHub repo and upload these files together.
    - Repo Settings -> Pages -> Deploy from branch -> main -> / (root) -> Save.
    - Your app opens at https://<username>.github.io/<repo>/
 

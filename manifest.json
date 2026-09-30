@@ -1,0 +1,16 @@
+{
+  "name": "Gajanan Electric Shop - Invoice",
+  "short_name": "Invoice",
+  "description": "Fast offline invoice maker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E9F4FB",
+  "theme_color": "#0B3D6E",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

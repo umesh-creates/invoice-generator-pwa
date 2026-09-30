@@ -1,5 +1,5 @@
 // Bump this on every deploy so old phones pick up the new file(s).
-const CACHE = 'invoice-pwa-v1';
+const CACHE = 'invoice-pwa-v2';
 
 const ASSETS = [
   './',
